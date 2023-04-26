@@ -1,4 +1,4 @@
-## Predicting Heart-Disease using Logistic Regression
+# Predicting Heart-Disease using Logistic Regression
  This research intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression.
 The dataset, which is publicly accessible on the Kaggle platform, comes from an ongoing cardiovascular research of people living in the Massachusetts town of Framingham. The classification objective is to identify a patient's 10-year risk of developing coronary heart disease (CHD).Information about the patients is provided by the dataset. It has 15 qualities and more than 4,000 records.
 
